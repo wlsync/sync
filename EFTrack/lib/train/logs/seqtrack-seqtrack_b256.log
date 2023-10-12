@@ -1,0 +1,4 @@
+[train: 1, 50 / 3750] FPS: 14.4 (8.1)  ,  Loss/total: 8.29298  ,  IoU: 0.05411  ,  [epoch_resttime: 1:08:17.207090, total_resttime : 24 days, 0:43:52.009217]
+[train: 1, 100 / 3750] FPS: 14.9 (9.0)  ,  Loss/total: 8.28610  ,  IoU: 0.05470  ,  [epoch_resttime: 1:03:37.205381, total_resttime : 22 days, 16:39:48.594037]
+[train: 1, 50 / 3750] FPS: 15.0 (43.1)  ,  Loss/total: 8.29356  ,  IoU: 0.04747  ,  [epoch_resttime: 1:05:40.205856, total_resttime : 23 days, 2:37:52.694679]
+[train: 1, 50 / 3750] FPS: 14.7 (43.1)  ,  Loss/total: 8.29962  ,  IoU: 0.04000  ,  [epoch_resttime: 1:06:55.535501, total_resttime : 23 days, 13:14:05.483378]
